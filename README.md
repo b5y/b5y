@@ -1,5 +1,4 @@
-### Hi there 👋
-:fi: :libra: :moon: :clock730: :octocat:
+:eu: :libra: :moon: :clock730: :octocat:
 - 🔭 I’m currently working on **secret projects**
 - 🌱 I’m currently learning everything related to ML and AI
 - 👯 I’m looking to collaborate on ppl, nlp and cv projects
