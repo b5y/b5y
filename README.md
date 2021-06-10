@@ -3,4 +3,4 @@
 - 👯 I’m looking for collaboration on ppl, nlp and cv projects
 <!--- - 🤔 I’m looking for help with **finding new opportunity** --->
 - 📫 How to reach me: [portfolio](https://musayev.me)
-- 😄 Pronouns: Mehti Musayev
+- Pronouns🗣️: Mehti Musayev
